@@ -24,3 +24,7 @@ This is a homework assignment from a data structures class taken during my time 
 	  `./Douglas_Christopher_prog4 <INPUT_FILE.TXT>`
 		
 	  It will take one file as input, turn it into a maze, and solve it.
+
+# Input file explanation
+First value to be read in, n, will be the length of the sides of the maze.
+there will then need to be n squared more lines. Each line will contain a 1 or 0 representing an opening in the top, bottom, left, and right. All 1s and 0s must be separated by a space
