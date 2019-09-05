@@ -16,11 +16,11 @@ This is a homework assignment from a data structures class taken during my time 
 	
 	  `./Douglas_Christopher_prog4`
 	  
-	   It will ask you for the size, n, and generate a random maze that is n by n units long.
-	   After making the maze the program will then display the path
+	  It will ask you for the size, n, and generate a random maze that is n by n units long.
+	  After making the maze the program will then display the path
 	   
 	2) with a file
 	 
 	  `./Douglas_Christopher_prog4 <INPUT_FILE.TXT>`
 		
-	   It will take one file as input, turn it into a maze, and solve it.
+	  It will take one file as input, turn it into a maze, and solve it.
