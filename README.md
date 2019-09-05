@@ -6,10 +6,11 @@ This is a homework assignment from a data structures class taken during my time 
 # Compiling Instructions
 1. To compile on Linux use:
 
-	```g++ -std=c++11 main.cpp -o Douglas_Christopher_prog4```
+	`g++ -std=c++11 main.cpp -o Douglas_Christopher_prog4`
 	
 
 2. To execute:
+
    There are two ways to do this:
 	1) without a file
 	
